@@ -75,6 +75,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CamelCaseIdHTMLAnalyzer.cs" />
+    <Compile Include="CamelCaseTypeScriptAnalyzer.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="EmptyCatchBlockAnalyzer.cs" />
     <Compile Include="EmptyCatchBlockCodeFixProvider.cs" />
